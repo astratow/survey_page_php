@@ -6,7 +6,7 @@
 	<title>Survey Form</title>
 	
 	<link rel="stylesheet" href="survCSS.css">
-	<script src="js.js" defer></script>
+	
 </head>
 
 <body >
